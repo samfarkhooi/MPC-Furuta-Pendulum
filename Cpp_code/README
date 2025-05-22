@@ -1,0 +1,2 @@
+
+This directory is used with PlatformIO, the language is C++, many of the src files and include files are from DAQP, the quadratic program solver used. The matrices.cpp and matrices.hpp files should be replaced when the problem is reformulated (such as changing the soft constraint for the arms angle).
